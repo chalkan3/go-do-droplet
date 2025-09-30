@@ -1,0 +1,5 @@
+encryptionsalt: v1:A8+/ABT25GA=:v1:NKdIenINkjnyGnoG:pcR4updUAygnGhd4/piDnsEZOmBWFw==
+config:
+  digitalocean-spaces:region: nyc3
+  digitalocean-spaces:dropletName: test-sloth
+  digitalocean-spaces:size: s-1vcpu-1gb

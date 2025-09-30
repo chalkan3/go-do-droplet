@@ -1,0 +1,7 @@
+name: digitalocean-spaces
+description: A minimal DigitalOcean Go Pulumi program
+runtime: go
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: digitalocean-go
