@@ -1,5 +1,12 @@
 # DigitalOcean Droplet com Pulumi - Componentizado
 
+[![GitHub](https://img.shields.io/github/license/chalkan3/go-do-droplet)](https://github.com/chalkan3/go-do-droplet/blob/master/LICENSE)
+[![Go](https://img.shields.io/badge/Go-1.19+-00ADD8?style=flat&logo=go)](https://golang.org/)
+[![Pulumi](https://img.shields.io/badge/Pulumi-3.0+-8A3391?style=flat&logo=pulumi)](https://www.pulumi.com/)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-Compatible-0080FF?style=flat&logo=digitalocean)](https://www.digitalocean.com/)
+
+🚀 **Componentes Pulumi reutilizáveis em Go para gerenciar droplets DigitalOcean com facilidade.**
+
 Este projeto demonstra como criar droplets DigitalOcean usando Pulumi e Go com componentes reutilizáveis.
 
 ## 🧩 Arquitetura Componentizada
